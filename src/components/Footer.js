@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/hari-prasad-s-334a59277/"
+                href="http://linkedin.com/in/hariprasad019"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -41,7 +41,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/hari-prasad-s-334a59277/"
+                href="https://www.instagram.com/_ll._hari_.ll_/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

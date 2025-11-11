@@ -8,7 +8,7 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
-  SiFirebase,
+  SiFirebase, SiFlutter, SiMysql 
 } from "react-icons/si";
 function Techstack() {
   return (
@@ -29,10 +29,20 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
       </Col>
+
       
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
       </Col>
+      
+
+<Col xs={4} md={2} className="tech-icons">
+  <SiMysql />
+</Col>
+
+<Col xs={4} md={2} className="tech-icons">
+  <SiFlutter />
+</Col>
     </Row>
   );
 }
