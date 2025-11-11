@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.77783b5d.css",
-    "main.js": "/Portfolio/static/js/main.0e7e5670.js",
+    "main.js": "/Portfolio/static/js/main.f41ee1ed.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.26fbb7b4a851fc8ab587.jpg",
     "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/HariPrasadS.pdf": "/Portfolio/static/media/HariPrasadS.57205d628cd33b7e3e24.pdf",
+    "static/media/71762205019_PROFILE.pdf": "/Portfolio/static/media/71762205019_PROFILE.f3cec398fd2eec263564.pdf",
     "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/hp.jpg": "/Portfolio/static/media/hp.e4a50d927d95317fd51d.jpg",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.77783b5d.css.map": "/Portfolio/static/css/main.77783b5d.css.map",
-    "main.0e7e5670.js.map": "/Portfolio/static/js/main.0e7e5670.js.map",
+    "main.f41ee1ed.js.map": "/Portfolio/static/js/main.f41ee1ed.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77783b5d.css",
-    "static/js/main.0e7e5670.js"
+    "static/js/main.f41ee1ed.js"
   ]
 }
